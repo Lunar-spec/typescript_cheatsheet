@@ -67,7 +67,7 @@ Welcome to the TypeScript Cheat Sheet! This cheat sheet covers various aspects o
 
 This TypeScript Cheat Sheet provides examples and explanations for various TypeScript concepts. Use it as a quick reference guide to enhance your TypeScript programming skills.
 
-#CheatSheet.ts
+# CheatSheet.ts
 ```typescript
 let a = "hello" //type string
 // a = 9
